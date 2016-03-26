@@ -4,14 +4,14 @@
 
 [![Travis][build-badge]][build] [![npm package][npm-badge]][npm] [![Coverage Status][coveralls-badge]][coveralls]
 
-[build-badge]: https://img.shields.io/travis/evenchange4/react-lifecycle-hoc/master.svg?style=flat-square
-[build]: https://travis-ci.org/evenchange4/react-lifecycle-hoc
+[build-badge]: https://img.shields.io/travis/evenchange4/lint-config-m/master.svg?style=flat-square
+[build]: https://travis-ci.org/evenchange4/lint-config-m
 
-[npm-badge]: https://img.shields.io/npm/v/react-lifecycle-hoc.svg?style=flat-square
-[npm]: https://www.npmjs.org/package/react-lifecycle-hoc
+[npm-badge]: https://img.shields.io/npm/v/lint-config-m.svg?style=flat-square
+[npm]: https://www.npmjs.org/package/lint-config-m
 
-[coveralls-badge]: https://img.shields.io/coveralls/evenchange4/react-lifecycle-hoc/master.svg?style=flat-square
-[coveralls]: https://coveralls.io/github/evenchange4/react-lifecycle-hoc
+[coveralls-badge]: https://img.shields.io/coveralls/evenchange4/lint-config-m/master.svg?style=flat-square
+[coveralls]: https://coveralls.io/github/evenchange4/lint-config-m
 
 ## Installation
 

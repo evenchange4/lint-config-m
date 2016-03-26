@@ -3,6 +3,8 @@
 ## [HEAD]
 > Unreleased
 
+* test(config): add test
+
 ## [v1.0.4]
 > Mar 26, 2016
 
