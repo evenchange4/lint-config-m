@@ -1,9 +1,14 @@
 {
   "name": "lint-config-m",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "",
   "scripts": {
-    "test": "npm run test"
+    "test": "ava",
+    "test:watch": "npm test -- --watch",
+    "test:coverage": "nyc npm run test",
+    "coverage": "nyc report --reporter=text-lcov | coveralls",
+    "lint:js": "eslint --ignore-path .gitignore .",
+    "lint": "npm run lint:js"
   },
   "repository": {
     "type": "git",
@@ -15,14 +20,6 @@
     "url": "https://github.com/evenchange4/lint-config-m/issues"
   },
   "homepage": "https://github.com/evenchange4/lint-config-m#readme",
-  "scripts": {
-    "test": "ava",
-    "test:watch": "npm test -- --watch",
-    "test:coverage": "nyc npm run test",
-    "coverage": "nyc report --reporter=text-lcov | coveralls",
-    "lint:js": "eslint --ignore-path .gitignore .",
-    "lint": "npm run lint:js"
-  },
   "peerDependencies": {
     "babel-eslint": "^6.0.0-beta.6",
     "eslint": "^2.5.1",
