@@ -16,7 +16,7 @@
 ## Installation
 
 ```console
-$ npm install lint-config-m --save-dev
+$ npm install eslint stylelint lint-config-m --save-dev
 ```
 
 ## Usage
@@ -30,6 +30,17 @@ $ npm install lint-config-m --save-dev
   ]
 }
 ```
+
+## peerDependencies
+
+* eslint
+* babel-eslint
+* eslint-config-airbnb
+* eslint-plugin-ava
+* eslint-plugin-react
+
+* stylelint
+* stylelint-config-suitcss
 
 ## Test
 
