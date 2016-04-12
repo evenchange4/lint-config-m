@@ -3,6 +3,7 @@
 > Lint config with eslint and stylelint.
 
 [![Travis][build-badge]][build] [![Codecov Status][codecov-badge]][codecov] [![npm package][npm-badge]][npm] [![npm downloads][npm-downloads]][npm] [![license][license-badge]][license]
+
 [![Dependency Status][dependency-badge]][dependency] [![devDependency Status][devDependency-badge]][devDependency] [![peerDependency Status][peerDependency-badge]][peerDependency]
 
 [build-badge]: https://img.shields.io/travis/evenchange4/lint-config-m/master.svg?style=flat-square
