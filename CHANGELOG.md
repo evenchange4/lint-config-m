@@ -3,6 +3,12 @@
 ## [HEAD]
 > Unreleased
 
+## [v1.1.0]
+> Apr 12, 2016
+
+* chore(ava): update ava lint
+* chore(codecov): switch to use codecov
+
 ## [v1.0.6]
 > Mar 26, 2016
 
