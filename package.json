@@ -6,7 +6,7 @@
     "test": "ava",
     "test:watch": "npm test -- --watch",
     "test:coverage": "nyc npm run test",
-    "coverage": "nyc report --reporter=text-lcov | coveralls",
+    "coverage": "nyc report --reporter=text-lcov && codecov",
     "lint:js": "eslint --ignore-path .gitignore .",
     "lint": "npm run lint:js"
   },
@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/evenchange4/lint-config-m#readme",
   "peerDependencies": {
-    "babel-eslint": "^6.0.0-beta.6",
+    "babel-eslint": "^6.0.2",
     "eslint": "^2.6.0",
     "eslint-config-airbnb": "^7.0.0",
     "eslint-plugin-ava": "^2.1.0",
@@ -35,9 +35,9 @@
     "babel-preset-react": "^6.5.0",
     "babel-preset-stage-0": "^6.5.0",
     "babel-register": "^6.7.2",
-    "coveralls": "^2.11.9",
+    "codecov": "^1.0.1",
     "eslint": "^2.7.0",
-    "nyc": "^6.1.1"
+    "nyc": "^6.4.0"
   },
   "babel": {
     "presets": [
