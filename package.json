@@ -23,7 +23,7 @@
   "peerDependencies": {
     "babel-eslint": "^6.0.2",
     "eslint": "^2.6.0",
-    "eslint-config-airbnb": "^7.0.0",
+    "eslint-config-airbnb": "^8.0.0",
     "eslint-plugin-ava": "^2.1.0",
     "eslint-plugin-react": "^4.2.3",
     "stylelint": "^5.2.1",
