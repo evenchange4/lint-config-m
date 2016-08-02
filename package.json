@@ -27,7 +27,7 @@
     "eslint-plugin-ava": "^2.1.0",
     "eslint-plugin-react": "^6.0.0",
     "stylelint": "^6.2.2",
-    "stylelint-config-suitcss": "^7.0.0"
+    "stylelint-config-suitcss": "^8.0.0"
   },
   "devDependencies": {
     "ava": "^0.15.2",
