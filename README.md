@@ -38,9 +38,12 @@ $ npm install eslint stylelint lint-config-m --save-dev
 - eslint
 
 ```json
+"stylelint": {
+  "extends": "./node_modules/lint-config-m/stylelint.js"
+},
 "eslintConfig": {
   "extends": [
-    "./node_modules/lint-config-m/eslint"
+    "./node_modules/lint-config-m/eslint.js"
   ]
 }
 ```
