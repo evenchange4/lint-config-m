@@ -3,6 +3,11 @@
 ## [HEAD]
 > Unreleased
 
+## [v2.0.1]
+> Oct 26, 2016
+
+* fix(eslint.json): missing plugin:ava/recommended
+
 ## [v2.0.0]
 > Oct 26, 2016
 
