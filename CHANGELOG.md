@@ -3,6 +3,11 @@
 ## [HEAD]
 > Unreleased
 
+* feat(eslint): upgrade to eslint v3
+* feat(node): support for node v6
+* feat(npm): support for npm v3
+* feat(styline): upgrade to stylelint v7
+
 ## [v1.1.0]
 > Apr 12, 2016
 

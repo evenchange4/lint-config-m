@@ -1,7 +1,7 @@
 import test from 'ava';
 import config from '../eslint';
 
-test('should return a object', t => {
+test('should return a object', (t) => {
   t.is(typeof config, 'object');
 });
 
