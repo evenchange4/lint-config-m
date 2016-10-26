@@ -3,6 +3,9 @@
 ## [HEAD]
 > Unreleased
 
+## [v2.0.0]
+> Oct 26, 2016
+
 * feat(eslint): upgrade to eslint v3
 * feat(node): support for node v6
 * feat(npm): support for npm v3

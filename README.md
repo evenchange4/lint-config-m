@@ -48,13 +48,7 @@ $ npm install eslint stylelint lint-config-m --save-dev
 ## peerDependencies
 
 * eslint
-* babel-eslint
-* eslint-config-airbnb
-* eslint-plugin-ava
-* eslint-plugin-react
-
 * stylelint
-* stylelint-config-suitcss
 
 ## Test
 
