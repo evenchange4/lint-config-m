@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/evenchange4/lint-config-m#readme",
   "peerDependencies": {
-    "eslint": "^3.8.1",
+    "eslint": "^3.9.1",
     "stylelint": "^7.5.0"
   },
   "devDependencies": {
@@ -31,8 +31,8 @@
     "babel-preset-stage-0": "^6.16.0",
     "babel-register": "^6.18.0",
     "codecov": "^1.0.1",
-    "eslint": "^3.8.1",
-    "nyc": "^8.3.2",
+    "eslint": "^3.9.1",
+    "nyc": "^8.4.0",
     "stylelint": "^7.5.0"
   },
   "babel": {
@@ -67,12 +67,12 @@
     ]
   },
   "dependencies": {
-    "babel-eslint": "^7.0.0",
-    "eslint-config-airbnb": "^12.0.0",
+    "babel-eslint": "^7.1.0",
+    "eslint-config-airbnb": "^13.0.0",
     "eslint-plugin-ava": "^4.0.0",
-    "eslint-plugin-import": "^1.8.1",
+    "eslint-plugin-import": "^2.1.0",
     "eslint-plugin-jsx-a11y": "^2.2.3",
-    "eslint-plugin-react": "^6.4.1",
+    "eslint-plugin-react": "^6.6.0",
     "stylelint-config-suitcss": "^8.0.0"
   }
 }

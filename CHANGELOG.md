@@ -3,6 +3,11 @@
 ## [HEAD]
 > Unreleased
 
+## [v3.0.0]
+> Nov 07, 2016
+
+* fix(airbnb): update eslint-config-airbnb to v13 & eslint-plugin-import to v2
+
 ## [v2.0.1]
 > Oct 26, 2016
 
