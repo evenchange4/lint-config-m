@@ -32,7 +32,7 @@
     "babel-register": "^6.18.0",
     "codecov": "^1.0.1",
     "eslint": "^3.9.1",
-    "nyc": "^9.0.1",
+    "nyc": "^10.0.0",
     "stylelint": "^7.5.0"
   },
   "babel": {
