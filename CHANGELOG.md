@@ -3,6 +3,14 @@
 ## [HEAD]
 > Unreleased
 
+## [v3.1.0]
+> Jan 09, 2017
+
+* feat(packages): upgrade airbnb
+
+eslint-config-airbnb ^13.0.0 → ^14.0.0
+eslint-plugin-jsx-a11y ^2.2.3 → ^3.0.2
+
 ## [v3.0.0]
 > Nov 07, 2016
 
