@@ -68,7 +68,7 @@
   },
   "dependencies": {
     "babel-eslint": "^7.1.0",
-    "eslint-config-airbnb": "^13.0.0",
+    "eslint-config-airbnb": "^14.0.0",
     "eslint-plugin-ava": "^4.0.0",
     "eslint-plugin-import": "^2.1.0",
     "eslint-plugin-jsx-a11y": "^2.2.3",
