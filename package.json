@@ -73,6 +73,6 @@
     "eslint-plugin-import": "^2.2.0",
     "eslint-plugin-jsx-a11y": "^3.0.2",
     "eslint-plugin-react": "^6.9.0",
-    "stylelint-config-suitcss": "^8.0.0"
+    "stylelint-config-suitcss": "^9.0.0"
   }
 }
