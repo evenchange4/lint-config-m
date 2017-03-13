@@ -1,5 +1,7 @@
 # lint-config-m
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/evenchange4/lint-config-m.svg)](https://greenkeeper.io/)
+
 > Lint config with eslint and stylelint.
 
 [![Travis][build-badge]][build] [![Codecov Status][codecov-badge]][codecov] [![npm package][npm-badge]][npm] [![npm downloads][npm-downloads]][npm] [![license][license-badge]][license]
